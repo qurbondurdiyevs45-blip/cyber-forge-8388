@@ -1,0 +1,15 @@
+{
+  "name": "cyber-forge-8388",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2157,
+    "createdAt": "2026-09-11T13:08:52.647Z"
+  }
+}
